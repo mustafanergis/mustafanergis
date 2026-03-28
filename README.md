@@ -1,4 +1,6 @@
-## Hi there 👋
+## Merhaba ben Mustafa Nergis
+
+Anadolu Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Siber güvenlik alanında blue team tarafında kendimi geliştiriyorum.
 
 <!--
 **mustafanergis/mustafanergis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
